@@ -7,4 +7,3 @@ cohere==4.19.2
 streamlit==1.11.0
 streamlit-chat==0.1.1
 pysqlite3-binary
-sys
