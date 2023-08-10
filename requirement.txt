@@ -1,0 +1,8 @@
+chromadb
+typing-extensions==4.5.0
+langchain==0.0.191
+unstructured
+unstructured[local-inference]
+streamlit
+streamlit-chat
+cohere
