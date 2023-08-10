@@ -1,4 +1,4 @@
-chromadb==0.4.5
+chromadb==0.3.29
 typing-extensions==4.5.0
 unstructured
 unstructured[local-inference]
