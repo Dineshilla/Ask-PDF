@@ -12,7 +12,6 @@ import time
 import threading
 from datetime import datetime
 import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 
 
