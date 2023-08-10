@@ -11,7 +11,7 @@ from langchain.llms import Cohere
 import time
 import threading
 from datetime import datetime
-package__import__('pysqlite3')
+import pysqlite3
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
